@@ -10,6 +10,5 @@ while choice != "0":
         print("4:\tHave dinner")
         print("5:\tGo to bed")
         print("0:\tExit")
-        
+
     choice = input()
-    
